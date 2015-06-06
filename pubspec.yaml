@@ -1,0 +1,7 @@
+name: Test_GPIO
+author: sh4869 <nobuk4869@gmail.com> 
+version: 0.1.0
+dependencies:
+     rpi_gpio : '<0.5.0'
+environment:
+  sdk: '>=1.0.0 <2.0.0'
